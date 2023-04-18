@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\bin\Debug\End_sem_exam.exe.config
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\bin\Debug\End_sem_exam.exe
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\bin\Debug\End_sem_exam.pdb
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.CREATE_ACCOUNT.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.Form1.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.LOGIN.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.Properties.Resources.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.exe
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.pdb
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.Connected.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.SEARCH.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.UPDATE.resources
+C:\Users\PC\Desktop\all projects\End_sem_exam\End_sem_exam\obj\Debug\End_sem_exam.Exercice.resources
